@@ -1,2 +1,2 @@
 # odin-recipes
-There are recipes of 3 popular Indian dishes
+These are recipes of 3 popular Indian dishes
